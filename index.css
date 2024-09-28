@@ -170,3 +170,9 @@ aside img{
     margin-bottom: 40px;
   }
 }
+
+@media (max-width: 425px){
+  .birth-content{
+    font-size: 15px;
+  }
+}
