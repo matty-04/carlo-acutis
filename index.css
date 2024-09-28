@@ -52,7 +52,6 @@ body{
   background-image: url(./italy-bg.jpg);
   background-size: cover;
   height: 100vh;
-  width: 100%;
   background-position: center;
   filter: brightness(20%);
 }
@@ -98,7 +97,6 @@ body{
   background-image: url(./london-bg.jpg);
   background-size: cover;
   height: 100vh;
-  width: 100%;
   background-position: center;
   filter: brightness(50%);
 } 
