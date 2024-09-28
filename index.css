@@ -171,7 +171,7 @@ aside img{
   }
 }
 
-@media (max-width: 425px){
+@media (max-width: 320px){
   .birth-content{
     font-size: 15px;
   }
